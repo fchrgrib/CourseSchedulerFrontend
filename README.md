@@ -28,5 +28,10 @@ if user want to add more major, department, or course they can input each of the
 - after that you can run the project with command `docker compose up -d` in terminal
 - you can see the program in http://localhost:3000
 
+## Reference
+1. React Official Documentation: https://reactjs.org/
+2. MDN Web Docs - JavaScript Guide: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+3. Tailwind CSS Official Documentation: https://tailwindcss.com/docs
+
 
 
